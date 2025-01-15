@@ -1,4 +1,4 @@
-# Spring 2023 OARC Data Visualization with Python I: Plotting Fundamentals
+# Winter 2025 OARC Data Visualization with Python I: Plotting Fundamentals
 
 This repository is maintained by Ben Winjum for use in UCLA OARC's introductory training class.
 
