@@ -1,4 +1,4 @@
-# Winter 2025 OARC Data Visualization with Python I: Plotting Fundamentals
+# Fall 2026 OARC Data Visualization with Python I: Plotting Fundamentals
 
 This repository is maintained by Ben Winjum for use in UCLA OARC's introductory training class.
 
@@ -6,7 +6,7 @@ This repository is maintained by Ben Winjum for use in UCLA OARC's introductory 
 
 * UCLA participants (multi-factor authentication required):
 
-  * <a href="https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbenjum%2Foarc-python-data-viz-1&urlpath=lab%2Ftree%2Foarc-python-data-viz-1%2F&branch=main">Launch into JupyterHub</a> (choose UCLA)
+  * <a href="https:///ucla-oarc-workshop.nrp-nautilus.io/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbenjum%2Foarc-python-data-viz-1&urlpath=lab%2Ftree%2Foarc-python-data-viz-1%2F&branch=main">Launch into JupyterHub</a> (choose UCLA)
 
 * Non UCLA participants (or anyone who has trouble with the above):
   * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benjum/oarc-python-data-viz-1/HEAD) 
